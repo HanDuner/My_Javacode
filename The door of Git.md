@@ -1,6 +1,6 @@
 # The door of Git 
 
-**注：[参考地址1](https://blog.csdn.net/qq_41961239/article/details/103935110)、[参考地址2****](https://www.bilibili.com/video/av75718460?p=16)**
+**注：[参考地址1](https://blog.csdn.net/qq_41961239/article/details/103935110)、[参考地址2](https://www.bilibili.com/video/av75718460?p=16)**
 
 **编写于2020.2.21**
 
